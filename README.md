@@ -1,4 +1,7 @@
 # 📦 Detecção de Objetos com YOLOv5
+
+vídeo de apresentação
+https://youtu.be/V2If3f7F0PY
  
 Este projeto tem como objetivo demonstrar o processo completo de **detecção de objetos utilizando o modelo YOLOv5**, desde a preparação dos dados até a análise de métricas de desempenho.
  
